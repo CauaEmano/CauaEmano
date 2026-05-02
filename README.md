@@ -8,7 +8,16 @@
 
 <br/>
 
-<!-- Totoro typing SVG from readme-typing-svg -->
+<!-- ┌─────────────────────────────────────────────────────┐ -->
+<!-- │ 🖼️ IMAGEM 1 — Banner principal                      │ -->
+<!-- │ Sugestão: cena aérea de Laputa, Nausicaä voando,    │ -->
+<!-- │ ou o campo com o Totoro                             │ -->
+<!-- │ Tamanho recomendado: width="700px"                  │ -->
+<!-- └─────────────────────────────────────────────────────┘ -->
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a3p2eHp0cWk4d2IzMjBpZjFiOXRzbjNqcm1yczJtcmdiN3d2djVoYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wsKqNQmHYZfs4/giphy.gif" width="700px" alt="Ghibli Banner"/> 
+
+<br/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Crimson+Pro&size=22&duration=3500&pause=900&color=4a7c59&center=true&vCenter=true&width=600&lines=%F0%9F%8C%BF+Building+worlds+one+commit+at+a+time...;%E2%9C%A8+Physics+%7C+Computer+Vision+%7C+Ray+Tracing...;%F0%9F%8D%83+Wandering+through+code+like+a+Ghibli+journey...;%F0%9F%8C%8A+From+Carpina+%2F+Pernambuco+%2F+Brazil)](https://git.io/typing-svg)
 
 </div>
@@ -19,13 +28,21 @@
 <!--                   SOBRE MIM / ABOUT                   -->
 <!-- ╚══════════════════════════════════════════════════════╝ -->
 
-<img align="right" src="https://media.giphy.com/media/ERnhnOaPnFWpHoMBWh/giphy.gif" width="200px" alt="Totoro dancing"/>
+<!-- ┌─────────────────────────────────────────────────────┐ -->
+<!-- │ 🖼️ IMAGEM 2 — Lateral direita do "Sobre mim"        │ -->
+<!-- │ Sugestão: Totoro, Jiji (gato da Kiki), ou Calcifer  │ -->
+<!-- │ Substitua o src= abaixo pelo seu link               │ -->
+<!-- └─────────────────────────────────────────────────────┘ -->
+<img align="right"
+  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTB2b3ZydWxtZnFjeDFuMXFncWE2NDlicDI1ZG1nMXdldmVqd3hsNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Hws7aKoFHS9gs/giphy.gif"
+  width="190px"
+  alt="Ghibli character"/>
 
 ### 🌱 *"No matter how many weapons you have, no matter how great your technology might be, the world cannot live without love."* — Princess Mononoke
 
 <br/>
 
-Olá! Sou o **Cauã**, desenvolvedor de Pernambuco 🇧🇷.  
+Olá! Sou o **Cauã**, desenvolvedor de Carpina, Pernambuco 🇧🇷.  
 Assim como nos filmes do Ghibli, acredito que a jornada importa tanto quanto o destino — cada projeto é uma nova floresta a explorar.
 
 - 🔭 Atualmente explorando **Computer Vision**, **Ray Tracing** e **Quantum ML**
@@ -44,6 +61,14 @@ Assim como nos filmes do Ghibli, acredito que a jornada importa tanto quanto o d
 <div align="center">
 
 ## 🍃 *Ferramentas da Floresta* — Tech Stack
+
+<!-- ┌─────────────────────────────────────────────────────┐ -->
+<!-- │ 🖼️ IMAGEM 3 — Acima dos badges de tecnologia        │ -->
+<!-- │ Sugestão: cena da oficina do Porco Rosso,           │ -->
+<!-- │ ou o Castelo Andante do Howl                        │ -->
+<!-- │ Tamanho recomendado: width="500px"                  │ -->
+<!-- └─────────────────────────────────────────────────────┘ -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTB2b3ZydWxtZnFjeDFuMXFncWE2NDlicDI1ZG1nMXdldmVqd3hsNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fwqAg6ZS6ebL2/giphy.gif" width="500px" alt="Ghibli workshop"/> 
 
 <br/>
 
@@ -87,6 +112,14 @@ Assim como nos filmes do Ghibli, acredito que a jornada importa tanto quanto o d
 
 > *"Always believe in yourself. Do this and no matter where you are, you will have nothing to fear."* — The Cat Returns
 
+<!-- ┌─────────────────────────────────────────────────────┐ -->
+<!-- │ 🖼️ IMAGEM 4 — Entre a citação e a tabela           │ -->
+<!-- │ Sugestão: cena de viagem/aventura —                 │ -->
+<!-- │ Spirited Away (trem sobre a água) ou Nausicaä       │ -->
+<!-- │ Tamanho recomendado: width="650px"                  │ -->
+<!-- └─────────────────────────────────────────────────────┘ -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTB2b3ZydWxtZnFjeDFuMXFncWE2NDlicDI1ZG1nMXdldmVqd3hsNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6XX4V0O8a0xdS/giphy.gif" width="650px" alt="Ghibli adventure"/> 
+
 <br/>
 
 | ✨ Projeto | 📖 Descrição | 🛠️ Tech |
@@ -106,6 +139,14 @@ Assim como nos filmes do Ghibli, acredito que a jornada importa tanto quanto o d
 <div align="center">
 
 ## 📊 *Espíritos do Repositório* — GitHub Stats
+
+<!-- ┌─────────────────────────────────────────────────────┐ -->
+<!-- │ 🖼️ IMAGEM 5 — Acima dos stats                      │ -->
+<!-- │ Sugestão: espíritos de fuligem (Spirited Away)      │ -->
+<!-- │ ou os Kodama (Princess Mononoke)                    │ -->
+<!-- │ Tamanho recomendado: width="380px"                  │ -->
+<!-- └─────────────────────────────────────────────────────┘ -->
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a3p2eHp0cWk4d2IzMjBpZjFiOXRzbjNqcm1yczJtcmdiN3d2djVoYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/v38BvJSInBpII/giphy.gif" width="380px" alt="Ghibli spirits"/> 
 
 <br/>
 
@@ -130,6 +171,15 @@ Assim como nos filmes do Ghibli, acredito que a jornada importa tanto quanto o d
 ## 🐍 *A Cobra dos Commits*
 
 <img src="https://raw.githubusercontent.com/Cauaemano/Cauaemano/output/snake.svg" alt="Snake animation"/>
+
+<!-- ┌─────────────────────────────────────────────────────┐ -->
+<!-- │ 🖼️ IMAGEM 6 — Abaixo da cobra, antes do footer     │ -->
+<!-- │ Sugestão: pôr do sol do Totoro, ou Kiki voando      │ -->
+<!-- │ na vassoura ao entardecer — algo que dê             │ -->
+<!-- │ sensação de encerramento/despedida                  │ -->
+<!-- │ Tamanho recomendado: width="700px"                  │ -->
+<!-- └─────────────────────────────────────────────────────┘ -->
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NGE3bnhjMWVzM2UwaXZjaTY2OGU5ZW55bnFnbWo4NTQxM3NpdzkyOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oHsKFiT28Id0I/giphy.gif" width="700px" alt="Ghibli sunset"/> 
 
 </div>
 
